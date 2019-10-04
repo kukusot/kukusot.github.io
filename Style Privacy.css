@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Open Sans';
+    margin: 0;
+    padding: 0;
+    color:rgba(33, 33, 33, 0.95);
+    }
+    body{
+        width: 60%;
+        margin: 100px auto;
+    }
+    
+    h1{
+        font-size: 1.8rem;
+        text-align: center;
+        font-weight: 700;
+        margin-bottom: 50px;
+    }
+
+    h2{
+        font-weight: 700;
+        margin-bottom: 10px;
+        font-size:1.3rem;
+    }
+    p{
+        margin-bottom: 50px;
+        font-size: 1rem;
+        line-height: 2.5rem;
+    }
+    .updates{
+        font-size:0.9rem;
+        font-style: italic;
+        
+    }
+
+    
+    
+    
